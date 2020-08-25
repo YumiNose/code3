@@ -4,4 +4,6 @@ using namespace std;
 int main()
 {
     cout << "確認" << endl;
+
+    cout << "確認２" << endl;
 }
